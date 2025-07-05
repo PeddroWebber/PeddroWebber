@@ -58,14 +58,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ### 📊 GitHub Stats:
 
@@ -74,7 +66,39 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PeddroWebber&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=PeddroWebber&icon=0&color=7)](https://visitcount.itsvg.in)
+### 📰 Media Appearances
+#### 🇺🇸🇨🇦 United States and Canada
+[GameRant](https://gamerant.com/doom-ported-to-google-search-bar/) | [PCGamesN](https://www.pcgamesn.com/doom/google-search-bar) | [Hackster.io](https://www.hackster.io/news/the-search-for-doom-is-over-c84a240d4b07) | [Eteknix](https://www.eteknix.com/doom-now-playable-in-the-google-search-bar/) | [CanItRunDoom.org](https://canitrundoom.org)
+#### 🇧🇷 Brazil
+[Flow Games](https://flowgames.gg/minha-barra-de-pesquisa-do-google-roda-doom-sim/) | [IGN Brasil](https://www.instagram.com/p/DFs8BnHSljc/?img_index=1) | [GPotato](https://www.gpotato.com.br/minha-barra-de-pesquisa-do-google-roda-doom-e-verdade/)
+#### 🇯🇵 Japan
+| [GameSpark - Artigo Principal](https://www.gamespark.jp/article/2025/02/03/149060.html) | [Yahoo! Japan - Cobertura Oficial](https://news.yahoo.co.jp/articles/a8d20bde7164ff530f8ec80e3731e25cc50873bc) | [Game-News-Tokyo](https://game-news.tokyo/news/766699) | [DocomoNe](https://topics.smt.docomo.ne.jp/amp/article/gamespark/trend/gamespark-149060?redirect=1) | [InsideGames](https://www.inside-games.jp/article/img/2025/02/03/163964/1543600.html)
+#### 🇷🇺 Russia
+[IXBT Games](https://ixbt.games/news/2025/02/04/v-suter-doom-teper-mozno-poigrat-v-poiskovoi-stroke-google.html) | [3DNews](https://3dnews.kz/1117706/programmist-sygral-v-klassicheskuyu-doom-vnutri-poiskovoy-stroki-google)
+| [Trashbox.ru](https://trashbox.ru/topics/188645/programmist-igral-v-doom-vnutri-poiskovoj-stroki-google) | [Kod.ru](https://kod.ru/8804)
+#### 🇫🇷 France
+[Multiplayer.it](https://multiplayer.it/notizie/doom-e-stato-fatto-girare-nella-barra-di-ricerca-di-google.html) | [GoCleCD](https://www.goclecd.fr/top-3-moments-wtf-dans-le-gaming-19-news-k/)
+#### 🇩🇪 Germany
+[T3N.de](https://t3n.de/news/doom-in-google-suche-programmiertrick-1671294/?utm_source=rss&utm_medium=feed&utm_campaign=t3n-news) | [PCGames.de](https://www.pcgames.de/Doom-The-Dark-Ages-Spiel-74718/News/Doom-Port-Seltsam-Zahnbuerste-1465428/)
+#### 🇮🇹 Italy
+[Everyeye](https://www.everyeye.it/notizie/doom-varca-assurdi-confini-gira-barra-ricerca-google-776675.html) | [CDG](https://www.instagram.com/curiositadagamer/p/DFppEVdsPOf/?img_index=2)
+#### 🇭🇺 Hungary
+[IGN Hungria](https://hu.ign.com/doom/102322/news/kovetkezo-allomas-a-doom-most-mar-a-google-keresocsikjaban-is-vigan-elfut-videot-is-tudunk-mutatni-r) | [PCW Plus](https://www.pcwplus.hu/pcwlite/egy-fejleszto-a-google-keresoben-is-lefutatta-a-doomot-362965.html) |
+#### 🇪🇸 Spain, Chile, Colombia
+[Tarreo](https://www.tarreo.com/noticia/ahora-puedes-jugar-doom-en-la-barra-de-busqueda-de-google/) | [Marca](https://www.marca.com/videojuegos/juegos/2025/02/09/67a5ce3622601dbd348b4577.html) | [TDI](https://www.tdicolombia.com.co/2025/02/04/programador-logra-hacer-correr-doom-en-la-barra-de-busqueda-de-google/) | [HD Tecnologia](https://www.hd-tecnologia.com/programador-logra-hacer-correr-doom-en-la-barra-de-busqueda-de-google/)
+#### 🇵🇱 Poland
+[GamingDeputy](https://www.gamingdeputy.com/pl/gaming-news/programatorze-udalo-sie-uruchomic-doom-w-linii-wyszukiwania-google/)
+#### 🇺🇿 Uzbekistan
+[Zamin.uz](https://zamin.uz/uz/texnologiya/144236-doom-endi-google-qidiruv-satrida-ishga-tushirildi.html)
+#### 🇮🇷 Iran
+[Shahrsakhtafzar - خبر فارسی](https://www.shahrsakhtafzar.com/fa/news/console-game/54631-doom-running-on-google-search-bar)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎮 Gaming Platforms:
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
